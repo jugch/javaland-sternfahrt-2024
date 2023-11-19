@@ -5,5 +5,4 @@
 | Name(n) | Route | Start | Ankunft |
 | ------- | ----- | ----- | ------- |
 | [Marcus Fihlon](https://fosstodon.org/@McPringle) | [Luzern, Aarau, Basel, Mulhouse, Colmar, Strasbourg, Sarreguemines, Saarbrücken, Trier, Mühlheim an der Mosel, Wittlich (Nord-Süd-Route Schweiz, Via Romea Francigena, Saar-Radweg, Mosel-Radweg, Maare-Mosel-Radweg, Eifel-Ardennen-Radweg)](https://www.komoot.de/tour/1336061549/zoom) | 29.03.2023 | Sonntag |
-| [Ralf D. Müller](https://mastodontech.de/@rdmueller) | Frankfurt, Koblenz | xx.04.2023 | Sonntag |
-| [Sebastian Rose] | Frankfurt, Koblenz | xx.04.2023 | Sonntag |
+| [Ralf D. Müller](https://mastodontech.de/@rdmueller), [Gerd Aschemann](https://mastodon.social/@ascheman), [Falk Sippach](https://ijug.social/@sippsack), Sebastian Rose | Frankfurt, Koblenz | xx.04.2023 | Sonntag |

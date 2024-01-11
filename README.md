@@ -2,6 +2,8 @@
 
 *Eine Community-Aktivität der [Java User Group Switzerland](https://www.jug.ch/), organisiert von [Marcus Fihlon](https://fosstodon.org/@McPringle).*
 
+![Sternfahrt Logo mit Stern und dem Java Duke Maskottchen mit Velohelm](media/duke.png)
+
 ## Die Idee
 
 Es gibt jedes Jahr immer wieder einige Teilnehmer:innen, die mit dem Fahrrad anreisen. Sowohl aus der Nähe, als auch von weiter weg. Das ist nicht nur gesund und klimafreundlich, sondern macht vor allem Spass! Das möchten wir fördern.
